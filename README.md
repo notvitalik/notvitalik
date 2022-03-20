@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notvitalik
-- 👀 I’m interested in learning Dapp development 
+- 👀 I’m interested in Dapp development 
 - 🌱 I’m currently learning about Dapp development
 - 📫 How to reach me - Twitter DM - https://twitter.com/spacemanfour444
 
