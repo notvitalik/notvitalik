@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @notvitalik
+- 👋 Hi, I’m Abhi aka @notvitalik
 - 👀 I’m interested in Dapp development 
 - 🌱 I’m currently learning about Blockchains and Dapp development
-- 📫 How to reach me - Twitter DM - https://twitter.com/spacemanfour444
+- 📫 If you're here you already know how to reach me.
 
 <!---
 notvitalik/notvitalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
